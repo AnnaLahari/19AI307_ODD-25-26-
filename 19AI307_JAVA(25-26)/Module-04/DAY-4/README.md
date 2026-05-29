@@ -33,7 +33,7 @@ To write a Java program to demonstrate the **Abstract Factory Design Pattern** b
 /*
 Program to implement Abstract Factory Pattern using Java
 Developed by: LAHARI A
-RegisterNumber: 212223240111
+RegisterNumber: 212223230111
 */
 
 import java.util.Scanner;
