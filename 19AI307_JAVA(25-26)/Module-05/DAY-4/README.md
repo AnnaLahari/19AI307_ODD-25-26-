@@ -3,12 +3,10 @@
 ## QUESTION:
 Write a Java program to demonstrate **thread priority**.
 
----
 
 ## AIM:
 To write a Java program to demonstrate **setting and displaying thread priorities**.
 
----
 
 ## ALGORITHM :
 1. Start the program.  
@@ -22,15 +20,14 @@ To write a Java program to demonstrate **setting and displaying thread prioritie
 9. Display thread details using `System.out.println()`.  
 10. Stop the program.
 
----
 
 ## PROGRAM:
 
 ```java
 /*
 Program to implement Thread Priority using Java
-Developed by: D.B.V.SAI GANESH
-RegisterNumber: 212223240025
+Developed by: LAHARI A
+RegisterNumber: 212223240111
 */
 
 import java.util.Scanner;
