@@ -3,12 +3,12 @@
 ## QUESTION:
 Write a Java program to read input from the user using **InputStreamReader**.
 
----
+
 
 ## AIM:
 To write a Java program to demonstrate **reading input using InputStreamReader and BufferedReader**.
 
----
+
 
 ## ALGORITHM :
 1. Start the program.  
@@ -21,7 +21,7 @@ To write a Java program to demonstrate **reading input using InputStreamReader a
 8. Handle exceptions using `throws IOException`.  
 9. Stop the program.
 
----
+
 
 ## PROGRAM:
 
@@ -47,7 +47,6 @@ public class Main{
 }
 ```
 
----
 
 ## SOURCE CODE:
 
@@ -72,7 +71,6 @@ Hello Java
 You entered: Hello Java
 ```
 
----
 
 ## RESULT:
 
