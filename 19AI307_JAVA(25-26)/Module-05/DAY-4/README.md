@@ -77,7 +77,6 @@ java Main
 <img width="698" height="212" alt="image" src="https://github.com/user-attachments/assets/a2e9cb3f-7ab1-4769-8998-8516070364e0" />
 
 
----
 
 ## RESULT:
 
