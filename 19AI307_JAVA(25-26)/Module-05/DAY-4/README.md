@@ -26,8 +26,8 @@ To write a Java program to demonstrate **setting and displaying thread prioritie
 ```java
 /*
 Program to implement Thread Priority using Java
-Developed by: D.B.V.SAI GANESH
-RegisterNumber: 212223240025
+Developed by: LAHARI A
+RegisterNumber: 212223230111
 */
 
 import java.util.Scanner;
